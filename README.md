@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Bosanac515
-- 👀 I’m interested in programming, gamimg
+- 👀 I’m interested in programming, gaming
 - 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on snap
-- 📫 How to reach me snap bosanac_121, insta bosanac_010
+- 📫 How to reach me snap habibi_01, insta bosanac_010
 
 <!---
 Bosanac515/Bosanac515 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
