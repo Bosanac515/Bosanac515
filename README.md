@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bosanac515
-- 👀 I’m interested in programming, gaming
-- 🌱 I’m currently learning about Active Directory and Pen Testing
-- 📫 How to reach me: business email hello@bosatek.com, personal email adenm0918@gmail.com
+- 👀 I’m interested in gaming and optimizing my workflow
+- 🌱 I’m currently learning Pen-Testing
+- 📫 How to reach me: business email hello@bosatek.com
 
 <!---
 Bosanac515/Bosanac515 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
